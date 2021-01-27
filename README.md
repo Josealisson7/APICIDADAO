@@ -28,7 +28,7 @@ O sistema permite:
 
 #### INSTALANDO DEPENDÊNCIAS:
 
-Antes de inirciarmos precisamos instalar as dependêcias do projeto, vá até o diretorio do mesmo e execute o comando <b>composer install</b> no cmd.
+Antes de iniciarmos precisamos instalar as dependêcias do projeto, vá até o diretorio do mesmo e execute o comando <b>composer install</b> no cmd.
 
 #### INICIANDO O PROJETO:
 
